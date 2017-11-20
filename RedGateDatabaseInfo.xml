@@ -57,6 +57,13 @@
     <DataWriteAllFilesInOneDirectory>True</DataWriteAllFilesInOneDirectory>
   </WriteToFileOptions>
   <DataFileSet>
-    <Count>0</Count>
+    <Count>7</Count>
+    <DataFile>Customer.Address_Data.sql</DataFile>
+    <DataFile>Customer.AddressType_Data.sql</DataFile>
+    <DataFile>Customer.Note_Data.sql</DataFile>
+    <DataFile>Customer.Person_Data.sql</DataFile>
+    <DataFile>Customer.PhoneType_Data.sql</DataFile>
+    <DataFile>Customer.Abode_Data.sql</DataFile>
+    <DataFile>Customer.Phone_Data.sql</DataFile>
   </DataFileSet>
 </DatabaseInformation>
